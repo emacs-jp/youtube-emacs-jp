@@ -1,0 +1,11 @@
+* Starring
+
+- syohex https://twitter.com/syohex
+
+* Outline
+
+** syohex intro
+*** syohex's emacs projects
+
+** how syohex use emacs
+
